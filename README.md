@@ -1,3 +1,0 @@
-# Blackjack-Project
-
-print("Hello")
